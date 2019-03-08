@@ -6,6 +6,11 @@ Changelog
 
 - Nothing changed yet.
 
+0.6.3.dev0+dj21 (2019-09-18)
+------------------
+
+- Compatibility with Django 2.1 added.
+  From @tsouvarev work : https://github.com/python-babel/django-babel/pull/45
 
 0.6.2 (2017-12-18)
 ------------------
